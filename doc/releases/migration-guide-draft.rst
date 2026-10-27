@@ -56,6 +56,9 @@ Boards
   instead. ``stm32_min_dev_defconfig`` was renamed accordingly to
   :file:`stm32_min_dev_stm32f103x8_defconfig`.
 
+* MediaTek ``mt8365`` board is renamed to ``mt8365_genio_350_evk``, as it is the
+  Genio 350 EVK.
+
 Device Drivers and Devicetree
 *****************************
 
